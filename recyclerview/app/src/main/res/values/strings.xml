@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="txt_bike">Viaje en bicicleta</string>
+    <string name="txt_sentiment">Bicicleta</string>
 </resources>
