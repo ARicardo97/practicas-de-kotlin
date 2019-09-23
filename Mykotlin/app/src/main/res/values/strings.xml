@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My kotlin</string>
+    <string name="intro_edad">Introduce tu edad</string>
+    <string name="enviar">enviar</string>
+
+    <string name="Acceso">Acceso concedido</string>
+
+    <string name="no_edad">No tienes la edad</string>
+    <string name="deves_ser">Debes ser mayor de edad</string>
+
+</resources>
