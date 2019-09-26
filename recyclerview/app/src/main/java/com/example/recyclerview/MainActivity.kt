@@ -40,12 +40,10 @@ class MainActivity : AppCompatActivity() {
 
     //CREANDO ALERTDIALOG
     fun alert(){
-        val builder = AlertDialog.Builder(this)
+        var builder = AlertDialog.Builder(this)
         builder.setTitle("Información")
         builder.setMessage("El usuario que se presenta.Está realizando una actividad")
         builder.setPositiveButton("Aceptar", null)
         builder.show()
-        //imagen = ImageView(this).findViewById(R.id.imv_foto_post)
-        //imagen.setOnClickListener { v -> Toast.makeText(this,"skjajklsj", Toast.LENGTH_SHORT).show() }
     }
 }
