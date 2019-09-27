@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".Cartas_imagen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/im11"
+            style="@style/card_img"/>
+        <ImageView
+            android:id="@+id/im12"
+            style="@style/card_img"/>
+        <ImageView
+            android:id="@+id/im13"
+            style="@style/card_img"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/im21"
+            style="@style/card_img"/>
+        <ImageView
+            android:id="@+id/im22"
+            style="@style/card_img"/>
+        <ImageView
+            android:id="@+id/im23"
+            style="@style/card_img"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/im31"
+            style="@style/card_img"/>
+        <ImageView
+            android:id="@+id/im32"
+            style="@style/card_img"/>
+        <ImageView
+            android:id="@+id/im33"
+            style="@style/card_img"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/im41"
+            style="@style/card_img"/>
+
+    </LinearLayout>
+
+</LinearLayout>
